@@ -1,0 +1,19 @@
+.wrapper {
+    width: 80vh;
+    margin: auto;
+}
+
+input[type="text"] {
+    width: 40px;
+    margin: 0 2px;
+    font-size: 24px;
+    text-align: center;
+}
+
+span.digit {
+    padding: 5px;
+    margin: 2px;
+    color: white;
+    display: inline-block;
+    width: 40px;
+}
